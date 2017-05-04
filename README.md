@@ -34,3 +34,6 @@ vagrant plugin install vagrant-berkshelf
 vagrant plugin install vagrant-omnibus
 ```
 
+# AWS CLI
+
+You'll need to have Amazon Web Services CLI installed and configured on your local machine.  Do that by following the instructions [here](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-set-up.html)
